@@ -1,0 +1,7 @@
+export const LISTPRODUCTS = 'LISTPRODUCTS';
+export const ADDPRODUCT = 'ADDPRODUCT';
+export const DELETEPRODUCT = 'DELETEPRODUCT';
+export const SHOWDETAILS = 'SHOWDETAILS';
+export const CHANGEPAGE = 'CHANGEPAGE';
+export const INCREASE = 'INCREASE';
+export const DECREASE = 'DECREASE';
